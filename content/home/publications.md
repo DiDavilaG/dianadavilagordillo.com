@@ -48,47 +48,47 @@ subtitle = ""
  css_class = ""
 +++
 
-## Books
+### Books
 
-Dávila Gordillo, D., Enyedi, Z., & Kopecký, P. (forthcoming). *Understanding Comparative Politics*. Sage.
+- Dávila Gordillo, D., Enyedi, Z., & Kopecký, P. (forthcoming). *Understanding Comparative Politics*. Sage.
 
-## Peer-reviewed articles
+---
+### Peer-reviewed articles
 
-Dávila Gordillo, D., Timoneda, J. C., & Vallejo Vera, S. (2026). “Machines Do See Color: Using LLMs to Classify Overt and Covert Racism in Text.” *Sociological Methods & Research*. Advance online publication. [doi](https://doi.org/10.1177/00491241251412360)
+- Dávila Gordillo, D., Timoneda, J. C., & Vallejo Vera, S. (2026). “Machines Do See Color: Using LLMs to Classify Overt and Covert Racism in Text.” *Sociological Methods & Research*. Advance online publication. [doi](https://doi.org/10.1177/00491241251412360)
 
-Abad, A., Aldaz, R., Dávila Gordillo, D., & Vallejo Vera, S. (2022). “Un deja-vu no esperado: la política ecuatoriana en 2021.” *Revista de Ciencia Política*. [doi](http://dx.doi.org/10.4067/s0718-090x2022005000112) 
+- Abad, A., Aldaz, R., Dávila Gordillo, D., & Vallejo Vera, S. (2022). “Un deja-vu no esperado: la política ecuatoriana en 2021.” *Revista de Ciencia Política*. [doi](http://dx.doi.org/10.4067/s0718-090x2022005000112) 
 
-Abad, A., Aldaz, R., Dávila Gordillo, D., & Vallejo Vera, S. (2021). “Believe in Me: Parties’ Strategies During a Pandemic.” *Journal of Politics in Latin America, 13*(3), 419–441. [doi](https://doi.org/10.1177/1866802X211058742)
+- Abad, A., Aldaz, R., Dávila Gordillo, D., & Vallejo Vera, S. (2021). “Believe in Me: Parties’ Strategies During a Pandemic.” *Journal of Politics in Latin America, 13*(3), 419–441. [doi](https://doi.org/10.1177/1866802X211058742)
 
+---
+### Book chapters
 
-## Book chapters
+- Dávila Gordillo, D., & Wylie, K. (2021). “Party Leadership and Institutionalization in Latin America.” In *Oxford Research Encyclopedia of Politics*. Oxford University Press. [doi](https://doi.org/10.1093/acrefore/9780190228637.013.1667)
 
-Dávila Gordillo, D., & Wylie, K. (2021). “Party Leadership and Institutionalization in Latin America.” In *Oxford Research Encyclopedia of Politics*. Oxford University Press. [doi](https://doi.org/10.1093/acrefore/9780190228637.013.1667)
-
-Dávila Gordillo D. & Ragazzi F. (2017). The Radicalisation Awareness Network: Producing the EU counter-radicalisation discourse In: Carrera S., Mitsilegas V. (Eds.) <em>Constitutionalising the Security Union Effectiveness, Rule of Law and Rights in Countering Terrorism and Crime.</em> Brussels: Centre for European Policy Studies (CEPS). 54-63.
+- Dávila Gordillo D. & Ragazzi F. (2017). The Radicalisation Awareness Network: Producing the EU counter-radicalisation discourse In: Carrera S., Mitsilegas V. (Eds.) <em>Constitutionalising the Security Union Effectiveness, Rule of Law and Rights in Countering Terrorism and Crime.</em> Brussels: Centre for European Policy Studies (CEPS). 54-63.
 [PDF](http://arxiv.org/pdf/1512.04133v1)
 
-## Current Working Papers
+---
+### Current Working Papers
 
-Participation, but on Their Own Terms: Indigenous Political Strategy and the Limits of Party Politics in Ecuador.* Book chapter manuscript.
+- Participation, but on Their Own Terms: Indigenous Political Strategy and the Limits of Party Politics in Ecuador.* Book chapter manuscript.
 
-Seniority, Gender Quotas, Party Strategy, and Women Candidates (with Sebastian Vallejo Vera)
+- Seniority, Gender Quotas, Party Strategy, and Women Candidates (with Sebastian Vallejo Vera)
 
-Putting Yourself in Their Shoes: Perspective-taking to Foster Positive Attitudes Towards Venezuelan Migrants among the Ecuadorian Youth (with Leila Demarest, Juan Masullo, and Katharina Natter)
+- Putting Yourself in Their Shoes: Perspective-taking to Foster Positive Attitudes Towards Venezuelan Migrants among the Ecuadorian Youth (with Leila Demarest, Juan Masullo, and Katharina Natter)
 
-The surprising new votes for Pachakutik in 2021: the indigenous voters, and segmented mobilization strategies. [Paper manuscript](https://www.ucis.pitt.edu/clas/content/charlemos) 
+- The surprising new votes for Pachakutik in 2021: the indigenous voters, and segmented mobilization strategies. [Paper manuscript](https://www.ucis.pitt.edu/clas/content/charlemos) 
 
-Who votes for Pachakutik? Ethnic voting in Ecuador. Paper manuscript.
 
-The Ecuadorian paradox of recognition: the fragmentation of the indígena category. Paper manuscript.
 
+---
 ## Policy Briefs and Commentary
 
+- Dávila Gordillo, D. (2025). Expert contribution to *What Will Defeated Ballot Questions Mean for Ecuador?* *The Dialogue: Latin America Advisor*. Inter-American Dialogue. [PDF](https://www.thedialogue.org/wp-content/uploads/2025/12/LAA251202.pdf)
 
-Dávila Gordillo, D. (2025). Expert contribution to *What Will Defeated Ballot Questions Mean for Ecuador?* *The Dialogue: Latin America Advisor*. Inter-American Dialogue. [PDF](https://www.thedialogue.org/wp-content/uploads/2025/12/LAA251202.pdf)
+- Davila Gordillo, D. (2021). [Elecciones presidenciales en el Ecuador: flashback al pasado y un futuro incierto](https://www.vozyvoto.com.mx/Leer/314Flashback-al-pasado-y-futuro-incierto) . In Voz y Voto. 
 
-Davila Gordillo, D. (2021). [Elecciones presidenciales en el Ecuador: flashback al pasado y un futuro incierto](https://www.vozyvoto.com.mx/Leer/314Flashback-al-pasado-y-futuro-incierto) . In Voz y Voto. 
-
-Abad, A., Aldaz, R., Davila Gordillo, D., Vallejo, S., (2021). [Ecuador: cómo diferenciarse cuando compites con 16 candidatos](https://agendapublica.es/ecuador-como-diferenciarse-cuando-compites-con-16-candidatos/) . Agenda Pública 
+- Abad, A., Aldaz, R., Davila Gordillo, D., Vallejo, S., (2021). [Ecuador: cómo diferenciarse cuando compites con 16 candidatos](https://agendapublica.es/ecuador-como-diferenciarse-cuando-compites-con-16-candidatos/) . Agenda Pública 
 
 
