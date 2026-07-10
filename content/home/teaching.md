@@ -47,8 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-I teach comparative politics, qualitative research methods, women’s political representation, political parties, democratization, and Latin American politics. I believe students learn political science best when they actively engage with political puzzles rather than simply memorize concepts. My courses encourage students to think comparatively, evaluate evidence critically, and connect theoretical ideas to contemporary political developments.
-
+I teach comparative politics, qualitative research methods, women’s political representation, political parties, democratization, and Latin American politics. I believe students learn political science best when they actively engage with political puzzles rather than simply memorize concepts. My courses encourage students to think comparatively, evaluate evidence critically, and connect theoretical ideas to contemporary political developments.For selected course syllabi and teaching materials, see my [Teaching Resources](/teaching-resources/).
 ### Current teaching at Leiden University
 
 - **Introduction to Comparative Politics**  
