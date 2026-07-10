@@ -6,7 +6,7 @@ type: page
 
 This page brings together supplementary materials related to my research, including dissertation appendices, datasets, replication materials, research instruments, and teaching resources.
 
-## Dissertation supplementary materials
+### Dissertation supplementary materials
 
 The following online appendices accompany my doctoral dissertation.
 
