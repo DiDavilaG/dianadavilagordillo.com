@@ -1,81 +1,253 @@
-/* Improve readability of long homepage sections */
-.home-section .container {
-  max-width: 1100px;
+/* =========================================================
+   DIANA DÁVILA GORDILLO — CUSTOM WEBSITE STYLING
+   Palette:
+   Navy:       #243A5E
+   Berry:      #8A3F59
+   Dusty rose: #D8A8B5
+   Blush:      #F7ECEF
+   Warm white: #FFFDFC
+   Charcoal:   #2F3136
+   ========================================================= */
+
+
+/* ---------- General typography ---------- */
+
+body {
+  color: #2F3136;
+  background-color: #FFFDFC;
 }
 
-/* Publications section */
-#publications .container {
-  max-width: 1120px;
+p,
+li {
+  line-height: 1.65;
 }
 
-#publications .row {
-  display: block;
+a {
+  color: #243A5E;
+  text-decoration-color: #D8A8B5;
+  text-underline-offset: 0.15em;
 }
 
-#publications .row > div {
-  width: 100%;
-  max-width: 100%;
-  flex: none;
+a:hover,
+a:focus {
+  color: #8A3F59;
 }
 
-#publications .section-heading {
-  text-align: left;
-  margin-bottom: 2rem;
+
+/* ---------- Navigation ---------- */
+
+.navbar {
+  background-color: #F7ECEF !important;
+  box-shadow: 0 1px 8px rgba(36, 58, 94, 0.08);
 }
 
-#publications .section-heading h1 {
-  font-size: 2.2rem;
-  margin-bottom: 0;
+.navbar-brand {
+  color: #243A5E !important;
+  font-weight: 600;
+  letter-spacing: 0.01em;
 }
 
-#publications .col-12,
-#publications .col-md-12,
-#publications .col-lg-12 {
-  max-width: 100%;
-}
-
-#publications h3 {
-  font-size: 1.35rem;
-  margin-top: 2rem;
-  margin-bottom: 0.9rem;
-  color: #8A2442;
-}
-
-#publications ul {
-  max-width: 1000px;
-  padding-left: 1.6rem;
-  margin-left: 0;
-}
-
-#publications li {
-  margin-bottom: 1rem;
-  line-height: 1.55;
-}
-
-#publications hr {
-  max-width: 1000px;
-  margin: 1.8rem 0;
-  border: 0;
-  border-top: 1px solid #dfc8cf;
-}
-
-#publications em {
+.navbar-nav .nav-link {
+  color: #243A5E !important;
   font-weight: 500;
 }
 
-/* Profile photograph */
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus,
+.navbar-nav .nav-item.active .nav-link {
+  color: #8A3F59 !important;
+}
 
+
+/* ---------- Major section headings ---------- */
+
+.home-section h1,
+.home-section h2 {
+  color: #243A5E;
+}
+
+.home-section .section-heading h1 {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 1.8rem;
+}
+
+.home-section .section-heading h1::after {
+  content: "";
+  display: block;
+  width: 54px;
+  height: 3px;
+  margin-top: 0.55rem;
+  background-color: #D8A8B5;
+  border-radius: 2px;
+}
+
+
+/* ---------- About / profile section ---------- */
+
+#profile {
+  padding-top: 1rem;
+}
 
 #profile .avatar {
   width: 270px !important;
   height: 270px !important;
   max-width: 270px !important;
-
   object-fit: cover;
   object-position: center center;
-
   margin: 0 auto 1.25rem auto;
-
   opacity: 1 !important;
   filter: none !important;
+}
+
+#profile .portrait-title h2 {
+  color: #243A5E;
+  font-size: 2rem;
+  line-height: 1.15;
+  margin-bottom: 0.45rem;
+}
+
+#profile .portrait-title h3 {
+  color: #565B66;
+  font-size: 1.08rem;
+  line-height: 1.4;
+  margin-top: 0;
+}
+
+#profile .network-icon a {
+  color: #243A5E;
+}
+
+#profile .network-icon a:hover {
+  color: #8A3F59;
+}
+
+
+/* ---------- Research section ---------- */
+
+#projects h3 {
+  color: #243A5E;
+  font-size: 1.38rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+#projects h3::after {
+  content: "";
+  display: block;
+  width: 36px;
+  height: 2px;
+  margin-top: 0.45rem;
+  background-color: #D8A8B5;
+}
+
+#projects p {
+  line-height: 1.7;
+}
+
+
+/* ---------- Publications section ---------- */
+
+#publications h3 {
+  color: #243A5E;
+  font-size: 1.35rem;
+  margin-top: 2rem;
+  margin-bottom: 0.9rem;
+}
+
+#publications ul {
+  padding-left: 1.4rem;
+}
+
+#publications li {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+#publications hr {
+  margin: 2rem 0;
+  border: 0;
+  border-top: 1px solid #E8D5DB;
+}
+
+#publications strong {
+  color: #243A5E;
+}
+
+#publications a {
+  color: #8A3F59;
+  font-weight: 500;
+}
+
+#publications a:hover {
+  color: #243A5E;
+}
+
+
+/* ---------- Teaching section ---------- */
+
+#teaching h3 {
+  color: #243A5E;
+  margin-top: 2rem;
+  margin-bottom: 0.9rem;
+}
+
+#teaching strong {
+  color: #243A5E;
+}
+
+
+/* ---------- Buttons ---------- */
+
+.btn-primary,
+.btn-primary:visited {
+  color: #FFFFFF !important;
+  background-color: #243A5E !important;
+  border-color: #243A5E !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  color: #FFFFFF !important;
+  background-color: #8A3F59 !important;
+  border-color: #8A3F59 !important;
+}
+
+
+/* ---------- Resource page ---------- */
+
+.article-style h2,
+.article-style h3 {
+  color: #243A5E;
+}
+
+.article-style h2 {
+  margin-top: 2.2rem;
+}
+
+.article-style a {
+  color: #8A3F59;
+}
+
+.article-style a:hover {
+  color: #243A5E;
+}
+
+
+/* ---------- Mobile adjustments ---------- */
+
+@media (max-width: 768px) {
+  #profile .avatar {
+    width: 220px !important;
+    height: 220px !important;
+    max-width: 220px !important;
+  }
+
+  #profile .portrait-title h2 {
+    font-size: 1.7rem;
+  }
+
+  .home-section .section-heading h1 {
+    font-size: 2rem;
+  }
 }
