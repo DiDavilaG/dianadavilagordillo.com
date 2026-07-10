@@ -409,3 +409,70 @@ footer a:hover {
     display: none;
   }
 }
+
+/* =========================================================
+   HIGH-VISIBILITY POLISH
+   ========================================================= */
+
+/* 1. Stronger navigation bar */
+nav.navbar {
+  background: #243A5E !important;
+  box-shadow: 0 3px 14px rgba(36, 58, 94, 0.22) !important;
+}
+
+nav.navbar .navbar-brand,
+nav.navbar .nav-link {
+  color: #FFFFFF !important;
+}
+
+nav.navbar .nav-link:hover,
+nav.navbar .nav-item.active .nav-link {
+  color: #F2C8D3 !important;
+}
+
+
+/* 2. Clearer section titles */
+.home-section h1 {
+  color: #243A5E !important;
+  font-weight: 600 !important;
+  padding-bottom: 0.55rem;
+  border-bottom: 4px solid #D8A8B5;
+  display: inline-block;
+}
+
+
+/* 3. More visible research blocks */
+#projects h3 {
+  color: #243A5E !important;
+  background: #F7ECEF;
+  padding: 0.8rem 1rem;
+  border-left: 5px solid #8A3F59;
+  border-radius: 4px;
+}
+
+
+/* 4. Publication categories as distinct bands */
+#publications h3 {
+  color: #FFFFFF !important;
+  background: #243A5E;
+  padding: 0.65rem 1rem;
+  border-radius: 4px;
+  margin-top: 2.5rem;
+}
+
+
+/* 5. Teaching headings */
+#teaching h3 {
+  color: #243A5E !important;
+  padding-left: 0.8rem;
+  border-left: 4px solid #D8A8B5;
+}
+
+
+/* 6. Portrait frame */
+#profile .avatar {
+  border: 6px solid #FFFFFF !important;
+  box-shadow:
+    0 0 0 3px #D8A8B5,
+    0 12px 30px rgba(36, 58, 94, 0.22) !important;
+}
