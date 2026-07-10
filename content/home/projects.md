@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 
@@ -48,15 +48,21 @@ subtitle = ""
  css_class = ""
 +++
 
-**Research Projects**
+### Political Representation and Democratic Inclusion
+
+I study how electoral institutions, political parties, and informal political practices shape representation and political careers. My research focuses particularly on women’s political representation, gender quotas, candidate selection, political seniority, and party organization in Latin America.
+
+### Identity, Migration, and Political Attitudes
+
+My research also examines how political identities and social boundaries influence attitudes and participation. Current work investigates attitudes toward Venezuelan migrants in Ecuador, including how perspective-taking and different representations of migrants shape attitudes among young people.
 
 Principal investigator, project: “Attitudes towards Venezuelan migrants among the Ecuadorian youth: Challenging the criminalization of immigrants”. Project funded by the [EGAP LATAM Regional Hub Small Grants Fund](https://egap.org/project/attitudes-towards-venezuelan-migrants-among-the-ecuadorian-youth-challenging-the-criminalization-of-immigrants/)
 
-**Data Projects**
+### Institutions, Indigenous Politics, and Legal Pluralism
 
-Data on Ecuadorian political parties for [The Political Party Database](https://www.politicalpartydb.org/countries/ecuador/) country coordinator with [Sebastian Vallejo Vera](https://www.svallejovera.com/) 
+A third area of my research examines the interaction between formal and informal institutions. My current work studies Indigenous justice and legal pluralism in Ecuador, with particular attention to their consequences for democratic participation, political legitimacy, and the inclusion of Indigenous communities.
 
-Ecuadorian Electoral Data: [2021 Election](https://github.com/vallejo086/Elecciones_2021_EC) with [Sebastian Vallejo Vera](https://www.svallejovera.com/) 
 
-Geo-Party-Links Ecuador 2021 with Angelica Abad, Raul Aldaz, and with [Sebastian Vallejo Vera](https://www.svallejovera.com/). Data on mobilization strategies used by parties and candidadres during the 2021 national election in Ecuador (forthcoming). 
+
+
 
