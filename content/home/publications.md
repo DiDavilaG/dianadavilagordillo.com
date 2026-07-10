@@ -83,7 +83,7 @@ subtitle = ""
 
 
 ---
-## Policy Briefs and Commentary
+### Policy Briefs and Commentary
 
 - Dávila Gordillo, D. (2025). Expert contribution to *What Will Defeated Ballot Questions Mean for Ecuador?* *The Dialogue: Latin America Advisor*. Inter-American Dialogue. [PDF](https://www.thedialogue.org/wp-content/uploads/2025/12/LAA251202.pdf)
 
