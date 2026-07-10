@@ -8,16 +8,16 @@ light = true
 
 # Primary accent colour
 
-primary = "#9C3150"
+primary = "#243A5E"
 
 # Menu
 
-menu_primary = "#F8E4E8"
-menu_text = "#4B2A33"
-menu_text_active = "#8A2442"
-menu_title = "#3A2028"
+menu_primary = "#F7ECEF"
+menu_text = "#243A5E"
+menu_text_active = "#8A3F59"
+menu_title = "#243A5E"
 
 # Home sections
 
-home_section_odd = "#FFFFFF"
-home_section_even = "#FCF6F7"
+home_section_odd = "#FFFDFC"
+home_section_even = "#F8F3F4"
