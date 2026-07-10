@@ -62,3 +62,19 @@
 #publications em {
   font-weight: 500;
 }
+
+/* Profile photograph */
+#profile .avatar {
+  width: 250px !important;
+  height: 250px !important;
+  max-width: 250px !important;
+
+  object-fit: cover;
+  object-position: center center;
+
+  margin: 0 auto 1.25rem auto;
+
+  /* Bring browser rendering closer to the original */
+  filter: brightness(1.10) contrast(1.06) saturate(1.03) !important;
+  opacity: 1 !important;
+}
