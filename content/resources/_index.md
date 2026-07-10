@@ -32,7 +32,7 @@ type: page
 
 <div class="resource-card resource-card-4">
 <h3>Teaching Resources</h3>
-<p>Selected teaching materials and course resources may also be shared here. If you would like access to any of my syllabi, just send me an email!</p>
+<p>Selected teaching materials and course resources may also be shared here. If you would like access to any of my syllabus, just send me an email!</p>
 </div>
 
 </div>
