@@ -65,10 +65,11 @@
 
 /* Profile photograph */
 
+
 #profile .avatar {
-  width: 240px !important;
-  height: 240px !important;
-  max-width: 240px !important;
+  width: 270px !important;
+  height: 270px !important;
+  max-width: 270px !important;
 
   object-fit: cover;
   object-position: center center;
@@ -76,5 +77,5 @@
   margin: 0 auto 1.25rem auto;
 
   opacity: 1 !important;
-  filter: brightness(1.07) contrast(1.05) saturate(1.03) !important;
+  filter: none !important;
 }
