@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 75  # Order that this section will appear.
 
 title = "Diplomacy"
-subtitle = "**Human Rights in the Inter-American System**"
+subtitle = "*"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,6 +47,7 @@ subtitle = "**Human Rights in the Inter-American System**"
  css_class = ""
 +++
 
+### Human Rights in the Inter-American System
 As Second Secretary Alternate Representative of Ecuador to the Organization of American States (OAS) I was assigned as principal negotiator of Inter American Conventions of Human Rights and as one of the Ecuadorian representatives at the Committee of Juridical and Political Affairs [(CAJP)](https://www.oas.org/en/council/CAJP/Default.asp?q=&e=&evento=) of the OAS Permanent Council. 
 
 I was involved in the final negotiations of the [Inter-American Convention against Racism, Racial Discrimination and Related Forms of Intolerance A-68](http://www.oas.org/en/sla/dil/inter_american_treaties_A-70_human_rights_older_persons.asp),  and the  [Inter-American Convention against All Forms of Discrimination and Intolerance A-69](http://www.oas.org/en/sla/dil/inter_american_treaties_A-69_discrimination_intolerance.asp) which were negotiated at the same time. Both Conventions were adopted and open for signature at the 2013 OAS General Assembly in Antigua Guatemala. Ecuador signed both conventions during the General Assembly. 
