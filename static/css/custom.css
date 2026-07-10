@@ -739,3 +739,46 @@ body.dark .course-card:hover {
     font-size: 1.45rem;
   }
 }
+
+/* Teaching resources page width */
+
+body .article-container {
+  max-width: 1180px;
+}
+
+.teaching-intro {
+  max-width: 850px;
+  margin: 0 auto 3rem;
+  text-align: center;
+}
+
+.course-card-grid {
+  grid-template-columns: repeat(2, minmax(320px, 1fr));
+}
+
+.course-card h3 {
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
+}
+
+.resource-link-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.65rem 1rem;
+  background: #263f68;
+  color: #fff !important;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+.resource-link-button:hover {
+  opacity: 0.88;
+}
+
+@media screen and (max-width: 800px) {
+  .course-card-grid {
+    grid-template-columns: 1fr;
+  }
+}
