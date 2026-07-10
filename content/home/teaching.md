@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -47,69 +47,29 @@ subtitle = ""
  css_class = ""
 +++
 
-**Lake Forest College**
+I teach comparative politics, qualitative research methods, women’s political representation, political parties, democratization, and Latin American politics. My teaching emphasizes clear conceptual thinking, the careful use of evidence, and the connection between political science research and contemporary political questions.
 
-**2023-2024**
+### Current teaching at Leiden University
 
-Introduction to Comparative Politics
+- **Introduction to Comparative Politics**  
+  Large first-year lecture course covering states, regimes, institutions, parties, representation, identity, and political participation.  
 
-Women, Institutions, and Politics
+- **Bachelor Project: Women’s Representation**  
+  Research seminar on women’s political ambition, candidate selection, gender quotas, descriptive and substantive representation, and political careers.
 
-Latin American Politics 
+- **Qualitative Methods**  
+  Training in research design, case selection, interviewing, process tracing, interpretation, and qualitative analysis. 
 
-**2022-2023**
+### Previous teaching
 
-Introduction to Comparative Politics (x3)
+Before returning to Leiden University, I taught at Lake Forest College, including:
 
-Women, Institutions, and Politics
+- Introduction to Comparative Politics
+- Women, Institutions, and Politics
+- Latin American Politics
 
-Latin American Politics 
+At Leiden, I have also taught courses and seminars on qualitative research methods, democracy in Latin America, party politics in Latin America, international security, and comparative political systems.
 
-**Leiden University**
+### Teaching recognition
 
-**Master Seminars**
-
-**2021 - 2022**
-
-Lecturer: Qualitative Research Methods (x2)
-
-**2020 - 2021**
-
-Lecturer: Qualitative Research Methods (x4)
-
-**2019 - 2020** 
-
-Lecturer: Qualitative Research Methods (x2)
-
-**Bachelor Seminars**
-
-**2021 - 2022**
-
-Lecturer: Bachelor Project Seminar: Democracy in Latin America
-
-Lecturer: Introduction to Comparative Politics (x2)
-
-**2020 - 2021**
-
-Lecturer: Bachelor Project Seminar: Democracy in Latin America
-
-**2019 - 2020** 
-
-Lecturer: [Party Politics in Latin America](https://studiegids.universiteitleiden.nl/courses/97255/party-politics-in-latin-america)
-
-**2018 - 2019**
-
-Lecturer (x3) [Academic Skills: Introduction to Political Science](https://studiegids.universiteitleiden.nl/en/courses/78853/introduction-to-political-science) <br>
-
-
-**2017-2018**
-
-Lecturer (x4) Academic Skills: Critical Review <br>
-
-Lecturer (x3) Academic Skills: Book Review <br>
-
-**2016-2017**
-
-Lecturer (x3): Workgroups of International Security 
-
-Lecturer (x3): Workgroups of Comparative Analysis of Political Systems
+I received Leiden University Teaching Excellence Certificates in 2025 and 2026.
