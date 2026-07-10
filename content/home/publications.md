@@ -90,3 +90,12 @@ subtitle = ""
 - **Dávila Gordillo, D.** (2021). *Elecciones presidenciales en el Ecuador: Flashback al pasado y un futuro incierto*. *Voz y Voto*. [Link](https://www.vozyvoto.com.mx/Leer/314Flashback-al-pasado-y-futuro-incierto)
 
 - Abad, A., Aldaz, R., **Dávila Gordillo, D.**, & Vallejo Vera, S. (2021). *Ecuador: cómo diferenciarse cuando compites con 16 candidatos*. *Agenda Pública*. [Link](https://agendapublica.es/ecuador-como-diferenciarse-cuando-compites-con-16-candidatos/)
+
+---
+<hr>
+
+<p style="text-align:center; margin-top:2rem;">
+Looking for research datasets, replication materials, research instruments, or dissertation appendices?
+<br>
+<a href="/resources/"><strong>Explore the Resources page →</strong></a>
+</p>
