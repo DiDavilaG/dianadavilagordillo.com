@@ -72,7 +72,7 @@ subtitle = ""
 ---
 ### Current Working Papers
 
-- Participation, but on Their Own Terms: Indigenous Political Strategy and the Limits of Party Politics in Ecuador.* Book chapter manuscript.
+- Participation, but on Their Own Terms: Indigenous Political Strategy and the Limits of Party Politics in Ecuador. (Book chapter manuscript.)
 
 - Seniority, Gender Quotas, Party Strategy, and Women Candidates (with Sebastian Vallejo Vera)
 
