@@ -836,3 +836,55 @@ body .article-container {
     filter: none !important;
   }
 }
+
+
+/* Make the mobile hamburger menu clearly visible */
+
+@media (max-width: 991.98px) {
+
+  .navbar-toggler {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    width: 46px;
+    height: 42px;
+    padding: 8px;
+    margin-left: 0;
+    border: 2px solid #223a5e !important;
+    border-radius: 6px;
+    background: #ffffff !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+
+  .navbar-toggler-icon {
+    display: block !important;
+    width: 26px !important;
+    height: 22px !important;
+    background-image: none !important;
+    position: relative;
+  }
+
+  .navbar-toggler-icon::before,
+  .navbar-toggler-icon::after,
+  .navbar-toggler-icon {
+    border-top: 3px solid #223a5e;
+  }
+
+  .navbar-toggler-icon::before,
+  .navbar-toggler-icon::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 26px;
+  }
+
+  .navbar-toggler-icon::before {
+    top: 6px;
+  }
+
+  .navbar-toggler-icon::after {
+    top: 15px;
+  }
+
+}
