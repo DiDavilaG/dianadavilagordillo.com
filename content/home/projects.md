@@ -60,7 +60,7 @@ Principal investigator, project: “Attitudes towards Venezuelan migrants among 
 
 ### Institutions, Indigenous Politics, and Legal Pluralism
 
-A third area of my research examines the interaction between formal and informal institutions. My current work studies Indigenous justice and legal pluralism in Ecuador, with particular attention to their consequences for democratic participation, political legitimacy, and the inclusion of Indigenous communities.
+A third area of my research examines the interaction between formal and informal institutions. This work includes research on Indigenous politics in Latin America, particularly the evolution of Ecuador's Pachakutik movement and the relationship between Indigenous organizations, political parties, and the state. My current work studies Indigenous justice and legal pluralism in Ecuador, with particular attention to their consequences for democratic participation, political legitimacy, and the inclusion of Indigenous communities.
 
 
 
