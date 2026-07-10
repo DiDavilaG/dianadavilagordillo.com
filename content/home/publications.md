@@ -49,7 +49,7 @@ subtitle = ""
 +++
 ### Books
 
-- **Dávila Gordillo, D.**, Enyedi, Z., & Kopecký, P. (2027, forthcoming). *Understanding Comparative Politics*. Sage.
+- **Dávila Gordillo, D.**, Enyedi, Z., & Kopecký, P. (forthcoming). *Understanding Comparative Politics*. Sage.
 
 ---
 
