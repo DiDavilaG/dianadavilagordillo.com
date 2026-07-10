@@ -74,6 +74,7 @@ subtitle = ""
 ### Current working papers
 
 - *Participation, but on Their Own Terms: Indigenous Political Strategy and the Limits of Party Politics in Ecuador.* Book chapter manuscript.
+- *Institutional Entrepreneurs: The Roots of Local Indigenous Organizations* (with Christopher L. Carter)
 
 - *Seniority, Gender Quotas, Party Strategy, and Women Candidates* (with Sebastian Vallejo Vera).
 
