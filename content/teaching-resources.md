@@ -5,7 +5,7 @@ type: page
 ---
 
 <div class="teaching-intro">
-<p>Below are selected syllabi from courses I have taught at Leiden University and Lake Forest College. Colleagues interested in assignment instructions or additional teaching materials are welcome to <a href="mailto:di.davilagordillo@gmail.com">contact me by email</a>.</p>
+<p>Below are selected syllabi from courses I have taught at Leiden University and Lake Forest College. Colleagues interested in assignment instructions or additional teaching materials are welcome to <a href="mailto:d.l.davila.gordillo@fsw.leidenuniv.nl">contact me by email</a>.</p>
 </div>
 <h2 class="teaching-institution">Leiden University</h2>
 <div class="course-card-grid">
