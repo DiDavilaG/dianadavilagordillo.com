@@ -9,20 +9,19 @@
   weight = 5
 
 [[main]]
-  name = "Skills"
-  url = "#skills"
-  weight = 12
-
-
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 18
-
-[[main]]
-  name = "Projects"
+  name = "Research"
   url = "#projects"
-  weight = 25
+  weight = 10
+
+[[main]]
+name = "Research Output"
+  url = "#publications"
+  weight = 20
+
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 30
   
   [[main]]
   name = "Teaching"
@@ -30,23 +29,15 @@
   weight = 33
   
    [[main]]
-  name = "Online Appendices"
-  url = "#dissertation"
-  weight = 40
-  
-  [[main]]
   name = "Diplomacy"
   url = "#diplomatic"
-  weight = 45
+  weight = 40
   
-#[[main]]
- # name = "Contact"
-  #url = "#contact"
-  # weight = 45
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
-    name = "CV"
-    url = "https://leidenuniv1-my.sharepoint.com/:b:/g/personal/davilagordillodl_vuw_leidenuniv_nl/Eaj_VMYRWcBDnh4XvSWE4YABSxK4Pg3iWi0Jocc3iG5T3w?e=gupQ30"
-    weight = 70
+  name = "CV"
+  url = "https://leidenuniv1-my.sharepoint.com/:b:/g/personal/davilagordillodl_vuw_leidenuniv_nl/IQC67ii1UYOZSYjtC04oci5fAan001h9JdqwWlTB2kP4vsE?e=tNsZLO"
+  weight = 50
