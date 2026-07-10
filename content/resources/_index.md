@@ -4,6 +4,9 @@ date: 2026-07-10
 type: page
 ---
 
+<div style="background:red;color:white;padding:20px;">
+If you can read this in a red box, HTML is working.
+</div>
 <style>
 .resources-intro{
   max-width:820px;
