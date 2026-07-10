@@ -1,0 +1,53 @@
+/* Improve readability of long homepage sections */
+.home-section .container {
+  max-width: 1100px;
+}
+
+/* Publications / research output section */
+#publications .col-12,
+#publications .col-lg-8 {
+  max-width: 900px;
+}
+
+#publications h1 {
+  font-size: 2.4rem;
+  margin-bottom: 2rem;
+}
+
+#publications h3 {
+  font-size: 1.45rem;
+  margin-top: 2.2rem;
+  margin-bottom: 1rem;
+  color: #8A2442;
+}
+
+#publications ul {
+  padding-left: 1.2rem;
+}
+
+#publications li {
+  margin-bottom: 1rem;
+  line-height: 1.55;
+}
+
+#publications hr {
+  margin: 2rem 0;
+  border: 0;
+  border-top: 1px solid #ead6dc;
+}
+
+/* Keep article and book titles visually prominent */
+#publications em {
+  font-weight: 500;
+}
+
+/* Improve spacing in the research section */
+#projects h3 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
+  color: #8A2442;
+}
+
+#projects p {
+  line-height: 1.65;
+}
