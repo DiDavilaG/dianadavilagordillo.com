@@ -1,0 +1,478 @@
+/* =========================================================
+   DIANA DÁVILA GORDILLO — CUSTOM WEBSITE STYLING
+   Palette:
+   Navy:       #243A5E
+   Berry:      #8A3F59
+   Dusty rose: #D8A8B5
+   Blush:      #F7ECEF
+   Warm white: #FFFDFC
+   Charcoal:   #2F3136
+   ========================================================= */
+
+
+/* ---------- General typography ---------- */
+
+body {
+  color: #2F3136;
+  background-color: #FFFDFC;
+}
+
+p,
+li {
+  line-height: 1.65;
+}
+
+a {
+  color: #243A5E;
+  text-decoration-color: #D8A8B5;
+  text-underline-offset: 0.15em;
+}
+
+a:hover,
+a:focus {
+  color: #8A3F59;
+}
+
+
+/* ---------- Navigation ---------- */
+
+.navbar {
+  background-color: #F7ECEF !important;
+  box-shadow: 0 1px 8px rgba(36, 58, 94, 0.08);
+}
+
+.navbar-brand {
+  color: #243A5E !important;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.navbar-nav .nav-link {
+  color: #243A5E !important;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus,
+.navbar-nav .nav-item.active .nav-link {
+  color: #8A3F59 !important;
+}
+
+
+/* ---------- Major section headings ---------- */
+
+.home-section h1,
+.home-section h2 {
+  color: #243A5E;
+}
+
+.home-section .section-heading h1 {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 1.8rem;
+}
+
+.home-section .section-heading h1::after {
+  content: "";
+  display: block;
+  width: 54px;
+  height: 3px;
+  margin-top: 0.55rem;
+  background-color: #D8A8B5;
+  border-radius: 2px;
+}
+
+
+/* ---------- About / profile section ---------- */
+
+#profile {
+  padding-top: 1rem;
+}
+
+#profile .avatar {
+  width: 270px !important;
+  height: 270px !important;
+  max-width: 270px !important;
+  object-fit: cover;
+  object-position: center center;
+  margin: 0 auto 1.25rem auto;
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+#profile .portrait-title h2 {
+  color: #243A5E;
+  font-size: 2rem;
+  line-height: 1.15;
+  margin-bottom: 0.45rem;
+}
+
+#profile .portrait-title h3 {
+  color: #565B66;
+  font-size: 1.08rem;
+  line-height: 1.4;
+  margin-top: 0;
+}
+
+#profile .network-icon a {
+  color: #243A5E;
+}
+
+#profile .network-icon a:hover {
+  color: #8A3F59;
+}
+
+
+/* ---------- Research section ---------- */
+
+#projects h3 {
+  color: #243A5E;
+  font-size: 1.38rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+#projects h3::after {
+  content: "";
+  display: block;
+  width: 36px;
+  height: 2px;
+  margin-top: 0.45rem;
+  background-color: #D8A8B5;
+}
+
+#projects p {
+  line-height: 1.7;
+}
+
+
+/* ---------- Publications section ---------- */
+
+#publications h3 {
+  color: #243A5E;
+  font-size: 1.35rem;
+  margin-top: 2rem;
+  margin-bottom: 0.9rem;
+}
+
+#publications ul {
+  padding-left: 1.4rem;
+}
+
+#publications li {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+#publications hr {
+  margin: 2rem 0;
+  border: 0;
+  border-top: 1px solid #E8D5DB;
+}
+
+#publications strong {
+  color: #243A5E;
+}
+
+#publications a {
+  color: #8A3F59;
+  font-weight: 500;
+}
+
+#publications a:hover {
+  color: #243A5E;
+}
+
+
+/* ---------- Teaching section ---------- */
+
+#teaching h3 {
+  color: #243A5E;
+  margin-top: 2rem;
+  margin-bottom: 0.9rem;
+}
+
+#teaching strong {
+  color: #243A5E;
+}
+
+
+/* ---------- Buttons ---------- */
+
+.btn-primary,
+.btn-primary:visited {
+  color: #FFFFFF !important;
+  background-color: #243A5E !important;
+  border-color: #243A5E !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  color: #FFFFFF !important;
+  background-color: #8A3F59 !important;
+  border-color: #8A3F59 !important;
+}
+
+
+/* ---------- Resource page ---------- */
+
+.article-style h2,
+.article-style h3 {
+  color: #243A5E;
+}
+
+.article-style h2 {
+  margin-top: 2.2rem;
+}
+
+.article-style a {
+  color: #8A3F59;
+}
+
+.article-style a:hover {
+  color: #243A5E;
+}
+
+
+/* ---------- Mobile adjustments ---------- */
+
+@media (max-width: 768px) {
+  #profile .avatar {
+    width: 220px !important;
+    height: 220px !important;
+    max-width: 220px !important;
+  }
+
+  #profile .portrait-title h2 {
+    font-size: 1.7rem;
+  }
+
+  .home-section .section-heading h1 {
+    font-size: 2rem;
+  }
+}
+
+/* =========================================================
+   FINAL POLISH
+   ========================================================= */
+
+
+/* Give sections a little more breathing room */
+
+.home-section {
+  padding-top: 4.5rem;
+  padding-bottom: 4.5rem;
+}
+
+
+/* Subtle transition between homepage sections */
+
+.home-section:nth-of-type(even) {
+  background-color: #F8F3F4;
+}
+
+.home-section:nth-of-type(odd) {
+  background-color: #FFFDFC;
+}
+
+
+/* Refine the profile photograph */
+
+#profile .avatar {
+  border: 5px solid #FFFFFF;
+  box-shadow:
+    0 0 0 2px #D8A8B5,
+    0 10px 28px rgba(36, 58, 94, 0.16);
+}
+
+
+/* Make the profile name slightly more distinctive */
+
+#profile .portrait-title h2 {
+  letter-spacing: -0.02em;
+  font-weight: 500;
+}
+
+
+/* Elegant link movement */
+
+a {
+  transition:
+    color 0.2s ease,
+    border-color 0.2s ease,
+    opacity 0.2s ease;
+}
+
+
+/* Navigation hover underline */
+
+.navbar-nav .nav-link {
+  position: relative;
+}
+
+.navbar-nav .nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0.5rem;
+  right: 0.5rem;
+  bottom: 0.25rem;
+  height: 2px;
+  background-color: #D8A8B5;
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 0.2s ease;
+}
+
+.navbar-nav .nav-link:hover::after,
+.navbar-nav .nav-item.active .nav-link::after {
+  transform: scaleX(1);
+}
+
+
+/* Slightly soften major headings */
+
+.home-section .section-heading h1 {
+  font-weight: 500;
+  letter-spacing: -0.025em;
+}
+
+
+/* Make research headings feel more deliberate */
+
+#projects h3 {
+  padding-left: 0.85rem;
+  border-left: 4px solid #D8A8B5;
+}
+
+#projects h3::after {
+  display: none;
+}
+
+
+/* Cleaner publication bullets */
+
+#publications ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+#publications li {
+  position: relative;
+  padding-left: 1.35rem;
+}
+
+#publications li::before {
+  content: "◆";
+  position: absolute;
+  left: 0;
+  top: 0.18rem;
+  color: #D8A8B5;
+  font-size: 0.62rem;
+}
+
+
+/* Add a soft card effect to teaching subsections */
+
+#teaching h3 {
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #E8D5DB;
+}
+
+
+/* Refine the footer */
+
+footer {
+  background-color: #243A5E;
+  color: #F7ECEF;
+  padding-top: 1.4rem;
+  padding-bottom: 1.4rem;
+}
+
+footer a {
+  color: #FFFFFF;
+}
+
+footer a:hover {
+  color: #D8A8B5;
+}
+
+
+/* Keep mobile layout comfortable */
+
+@media (max-width: 768px) {
+  .home-section {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  .navbar-nav .nav-link::after {
+    display: none;
+  }
+}
+
+/* =========================================================
+   HIGH-VISIBILITY POLISH
+   ========================================================= */
+
+/* 1. Stronger navigation bar */
+nav.navbar {
+  background: #243A5E !important;
+  box-shadow: 0 3px 14px rgba(36, 58, 94, 0.22) !important;
+}
+
+nav.navbar .navbar-brand,
+nav.navbar .nav-link {
+  color: #FFFFFF !important;
+}
+
+nav.navbar .nav-link:hover,
+nav.navbar .nav-item.active .nav-link {
+  color: #F2C8D3 !important;
+}
+
+
+/* 2. Clearer section titles */
+.home-section h1 {
+  color: #243A5E !important;
+  font-weight: 600 !important;
+  padding-bottom: 0.55rem;
+  border-bottom: 4px solid #D8A8B5;
+  display: inline-block;
+}
+
+
+/* 3. More visible research blocks */
+#projects h3 {
+  color: #243A5E !important;
+  background: #F7ECEF;
+  padding: 0.8rem 1rem;
+  border-left: 5px solid #8A3F59;
+  border-radius: 4px;
+}
+
+
+/* 4. Publication categories as distinct bands */
+#publications h3 {
+  color: #FFFFFF !important;
+  background: #243A5E;
+  padding: 0.65rem 1rem;
+  border-radius: 4px;
+  margin-top: 2.5rem;
+}
+
+
+/* 5. Teaching headings */
+#teaching h3 {
+  color: #243A5E !important;
+  padding-left: 0.8rem;
+  border-left: 4px solid #D8A8B5;
+}
+
+
+/* 6. Portrait frame */
+#profile .avatar {
+  border: 6px solid #FFFFFF !important;
+  box-shadow:
+    0 0 0 3px #D8A8B5,
+    0 12px 30px rgba(36, 58, 94, 0.22) !important;
+}
