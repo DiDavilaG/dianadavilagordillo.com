@@ -891,222 +891,163 @@ body .article-container {
 
 
 /* ==========================================================
-   LIGHT MODE REDESIGN
-   (Dark mode remains unchanged)
+   LIGHT / DAY MODE REDESIGN
+   Older Academic theme-compatible version
    ========================================================== */
 
-body:not(.dark) {
-    background-color: #f7f5f3;
-    color: #2c2c2c;
+/* Main page background */
+
+html:not(.dark) body,
+html:not(.dark) .page-wrapper,
+html:not(.dark) .home-section,
+html:not(.dark) .article-container {
+  background-color: #f7f5f2 !important;
+  color: #333333 !important;
 }
 
-/* Main content area */
+/* Alternate homepage sections slightly */
 
-body:not(.dark) .article-container,
-body:not(.dark) .container {
-    color: #2c2c2c;
+html:not(.dark) .home-section:nth-of-type(even) {
+  background-color: #fbfaf8 !important;
+}
+
+html:not(.dark) .home-section:nth-of-type(odd) {
+  background-color: #f7f5f2 !important;
 }
 
 /* Headings */
 
-body:not(.dark) h1,
-body:not(.dark) h2,
-body:not(.dark) h3,
-body:not(.dark) h4,
-body:not(.dark) h5,
-body:not(.dark) h6 {
-    color: #223a5e;
-    font-weight: 700;
+html:not(.dark) h1,
+html:not(.dark) h2,
+html:not(.dark) h3,
+html:not(.dark) h4,
+html:not(.dark) h5,
+html:not(.dark) h6 {
+  color: #223a5e !important;
 }
 
-/* Paragraphs */
+/* Body text */
 
-body:not(.dark) p,
-body:not(.dark) li {
-    color: #3f3f3f;
-    line-height: 1.75;
+html:not(.dark) p,
+html:not(.dark) li,
+html:not(.dark) .article-style,
+html:not(.dark) .section-subheading {
+  color: #3d3d3d !important;
 }
 
-/* Links */
+/* Ordinary links */
 
-body:not(.dark) a {
-    color: #b35c73;
-    transition: color .2s ease;
+html:not(.dark) .article-style a,
+html:not(.dark) .article-container a,
+html:not(.dark) .home-section a {
+  color: #a84f68;
 }
 
-body:not(.dark) a:hover {
-    color: #223a5e;
+html:not(.dark) .article-style a:hover,
+html:not(.dark) .article-container a:hover,
+html:not(.dark) .home-section a:hover {
+  color: #223a5e;
 }
 
-/* ==========================================================
-   CARDS
-   ========================================================== */
+/* Navbar */
 
-body:not(.dark) .resource-card,
-body:not(.dark) .course-card {
-
-    background: #fcfbfa;
-
-    border: 1px solid #e7e2dc;
-
-    border-radius: 12px;
-
-    box-shadow: 0 6px 18px rgba(0,0,0,.08);
-
-    transition:
-        transform .25s ease,
-        box-shadow .25s ease;
+html:not(.dark) .navbar,
+html:not(.dark) .navbar-light,
+html:not(.dark) .navbar.fixed-top {
+  background-color: #fbfaf8 !important;
+  border-bottom: 1px solid #ddd6cf !important;
+  box-shadow: 0 2px 10px rgba(40, 40, 40, 0.06) !important;
 }
 
-body:not(.dark) .resource-card:hover,
-body:not(.dark) .course-card:hover {
-
-    transform: translateY(-4px);
-
-    box-shadow: 0 12px 28px rgba(0,0,0,.12);
-
+html:not(.dark) .navbar-brand,
+html:not(.dark) .navbar-nav .nav-link {
+  color: #223a5e !important;
 }
 
-/* ==========================================================
-   RESOURCE CARD COLORS
-   ========================================================== */
-
-.resource-card-1 {
-
-    border-top: 6px solid #b35c73;
-
+html:not(.dark) .navbar-nav .nav-link:hover,
+html:not(.dark) .navbar-nav .active > .nav-link {
+  color: #a84f68 !important;
 }
 
-.resource-card-2 {
+/* Resource and course cards */
 
-    border-top: 6px solid #b8892f;
-
+html:not(.dark) .resource-card,
+html:not(.dark) .course-card {
+  background-color: #fffdfb !important;
+  border-right: 1px solid #e5dfd8 !important;
+  border-bottom: 1px solid #e5dfd8 !important;
+  border-left: 1px solid #e5dfd8 !important;
+  box-shadow: 0 6px 18px rgba(45, 40, 35, 0.09) !important;
 }
 
-.resource-card-3 {
-
-    border-top: 6px solid #4f6f91;
-
+html:not(.dark) .resource-card:hover,
+html:not(.dark) .course-card:hover {
+  box-shadow: 0 12px 28px rgba(45, 40, 35, 0.14) !important;
 }
 
-.resource-card-4 {
+/* Stronger card accent colors */
 
-    border-top: 6px solid #5e8767;
-
+html:not(.dark) .resource-card-1,
+html:not(.dark) .course-card-rose {
+  border-top-color: #ad596e !important;
 }
 
-/* Teaching cards */
-
-.course-card-rose {
-
-    border-top-color:#b35c73;
-
+html:not(.dark) .resource-card-2,
+html:not(.dark) .course-card-gold {
+  border-top-color: #b58732 !important;
 }
 
-.course-card-gold {
-
-    border-top-color:#b8892f;
-
+html:not(.dark) .resource-card-3,
+html:not(.dark) .course-card-blue {
+  border-top-color: #527493 !important;
 }
 
-.course-card-blue {
-
-    border-top-color:#4f6f91;
-
+html:not(.dark) .resource-card-4,
+html:not(.dark) .course-card-green {
+  border-top-color: #60816a !important;
 }
 
-.course-card-green {
+/* Buttons */
 
-    border-top-color:#5e8767;
-
+html:not(.dark) .resource-link-button,
+html:not(.dark) .syllabus-button,
+html:not(.dark) .btn-primary {
+  background-color: #223a5e !important;
+  border-color: #223a5e !important;
+  color: #ffffff !important;
 }
 
-/* ==========================================================
-   BUTTONS
-   ========================================================== */
-
-body:not(.dark) .resource-link-button,
-body:not(.dark) .syllabus-button {
-
-    background:#223a5e;
-
-    color:white !important;
-
-    border-radius:6px;
-
-    font-weight:600;
-
+html:not(.dark) .resource-link-button:hover,
+html:not(.dark) .syllabus-button:hover,
+html:not(.dark) .btn-primary:hover {
+  background-color: #a84f68 !important;
+  border-color: #a84f68 !important;
+  color: #ffffff !important;
 }
 
-body:not(.dark) .resource-link-button:hover,
-body:not(.dark) .syllabus-button:hover {
+/* Tables */
 
-    background:#b35c73;
-
+html:not(.dark) table {
+  background-color: #fffdfb !important;
 }
 
-/* ==========================================================
-   NAVBAR
-   ========================================================== */
-
-body:not(.dark) .navbar {
-
-    background:#faf8f6 !important;
-
-    border-bottom:1px solid #e6e1db;
-
+html:not(.dark) thead,
+html:not(.dark) th {
+  background-color: #223a5e !important;
+  color: #ffffff !important;
 }
 
-body:not(.dark) .navbar-nav .nav-link {
+/* Blockquotes */
 
-    color:#223a5e !important;
-
-    font-weight:600;
-
+html:not(.dark) blockquote {
+  background-color: #fffdfb !important;
+  border-left-color: #ad596e !important;
 }
 
-body:not(.dark) .navbar-nav .nav-link:hover {
+/* Footer */
 
-    color:#b35c73 !important;
-
-}
-
-/* ==========================================================
-   HOME SECTIONS
-   ========================================================== */
-
-body:not(.dark) section {
-
-    background:#f7f5f3;
-
-}
-
-/* ==========================================================
-   BLOCKQUOTES
-   ========================================================== */
-
-body:not(.dark) blockquote {
-
-    background:#fdfbf9;
-
-    border-left:5px solid #b35c73;
-
-}
-
-/* ==========================================================
-   TABLES
-   ========================================================== */
-
-body:not(.dark) table {
-
-    background:white;
-
-}
-
-body:not(.dark) th {
-
-    background:#223a5e;
-
-    color:white;
-
+html:not(.dark) footer,
+html:not(.dark) .site-footer {
+  background-color: #f1ede8 !important;
+  color: #555555 !important;
 }
