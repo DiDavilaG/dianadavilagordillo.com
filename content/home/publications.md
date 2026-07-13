@@ -57,7 +57,7 @@ subtitle = ""
 
 - **Dávila Gordillo, D.**, Timoneda, J. C., & Vallejo Vera, S. (2026). *Machines Do See Color: Using LLMs to Classify Overt and Covert Racism in Text*. *Sociological Methods & Research*. Advance online publication. [doi](https://doi.org/10.1177/00491241251412360)
 
-- Abad, A., Aldaz, R., **Dávila Gordillo, D.**, & Vallejo Vera, S. (2022). *Un deja-vu no esperado: la política ecuatoriana en 2021*. *Revista de Ciencia Política*. [doi](http://dx.doi.org/10.4067/S0718-090X2022005000112)
+- Abad, A., Aldaz, R., **Dávila Gordillo, D.**, & Vallejo Vera, S. (2022). *An Unwelcomed Deja-vu: Ecuadorian Politics in 2021*. *Revista de Ciencia Política*. [doi](http://dx.doi.org/10.4067/S0718-090X2022005000112)
 
 - Abad, A., Aldaz, R., **Dávila Gordillo, D.**, & Vallejo Vera, S. (2021). *Believe in Me: Parties' Strategies During a Pandemic*. *Journal of Politics in Latin America, 13*(3), 419–441. [doi](https://doi.org/10.1177/1866802X211058742)
 
