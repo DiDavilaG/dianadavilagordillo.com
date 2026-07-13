@@ -1073,3 +1073,86 @@ html:not(.dark) .site-footer {
 .dark .navbar-nav .active > .nav-link {
     color: #f2c6d0 !important;
 }
+
+/* ==========================================================
+   DARK MODE: BLUE NAVBAR WITH VISIBLE WHITE TEXT
+   ========================================================== */
+
+html.dark .navbar,
+body.dark .navbar,
+.dark .navbar,
+html.dark .navbar-light,
+body.dark .navbar-light,
+.dark .navbar-light {
+  background-color: #223a5e !important;
+}
+
+/* Site name and navigation links */
+
+html.dark .navbar-brand,
+body.dark .navbar-brand,
+.dark .navbar-brand,
+html.dark .navbar-nav .nav-link,
+body.dark .navbar-nav .nav-link,
+.dark .navbar-nav .nav-link,
+html.dark .navbar-light .navbar-brand,
+body.dark .navbar-light .navbar-brand,
+.dark .navbar-light .navbar-brand,
+html.dark .navbar-light .navbar-nav .nav-link,
+body.dark .navbar-light .navbar-nav .nav-link,
+.dark .navbar-light .navbar-nav .nav-link {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+/* Active and hovered links */
+
+html.dark .navbar-nav .nav-link:hover,
+body.dark .navbar-nav .nav-link:hover,
+.dark .navbar-nav .nav-link:hover,
+html.dark .navbar-nav .active > .nav-link,
+body.dark .navbar-nav .active > .nav-link,
+.dark .navbar-nav .active > .nav-link {
+  color: #f2c6d0 !important;
+}
+
+/* Day/night and other navbar icons */
+
+html.dark .navbar i,
+body.dark .navbar i,
+.dark .navbar i,
+html.dark .navbar svg,
+body.dark .navbar svg,
+.dark .navbar svg {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+}
+
+/* Mobile hamburger lines */
+
+html.dark .navbar-toggler,
+body.dark .navbar-toggler,
+.dark .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.8) !important;
+  background-color: transparent !important;
+}
+
+html.dark .navbar-toggler-icon,
+body.dark .navbar-toggler-icon,
+.dark .navbar-toggler-icon,
+html.dark .navbar-toggler-icon::before,
+body.dark .navbar-toggler-icon::before,
+.dark .navbar-toggler-icon::before,
+html.dark .navbar-toggler-icon::after,
+body.dark .navbar-toggler-icon::after,
+.dark .navbar-toggler-icon::after {
+  border-color: #ffffff !important;
+}
+
+/* Mobile expanded menu */
+
+html.dark .navbar-collapse,
+body.dark .navbar-collapse,
+.dark .navbar-collapse {
+  background-color: #223a5e !important;
+}
