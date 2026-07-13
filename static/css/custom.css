@@ -888,3 +888,225 @@ body .article-container {
   }
 
 }
+
+
+/* ==========================================================
+   LIGHT MODE REDESIGN
+   (Dark mode remains unchanged)
+   ========================================================== */
+
+body:not(.dark) {
+    background-color: #f7f5f3;
+    color: #2c2c2c;
+}
+
+/* Main content area */
+
+body:not(.dark) .article-container,
+body:not(.dark) .container {
+    color: #2c2c2c;
+}
+
+/* Headings */
+
+body:not(.dark) h1,
+body:not(.dark) h2,
+body:not(.dark) h3,
+body:not(.dark) h4,
+body:not(.dark) h5,
+body:not(.dark) h6 {
+    color: #223a5e;
+    font-weight: 700;
+}
+
+/* Paragraphs */
+
+body:not(.dark) p,
+body:not(.dark) li {
+    color: #3f3f3f;
+    line-height: 1.75;
+}
+
+/* Links */
+
+body:not(.dark) a {
+    color: #b35c73;
+    transition: color .2s ease;
+}
+
+body:not(.dark) a:hover {
+    color: #223a5e;
+}
+
+/* ==========================================================
+   CARDS
+   ========================================================== */
+
+body:not(.dark) .resource-card,
+body:not(.dark) .course-card {
+
+    background: #fcfbfa;
+
+    border: 1px solid #e7e2dc;
+
+    border-radius: 12px;
+
+    box-shadow: 0 6px 18px rgba(0,0,0,.08);
+
+    transition:
+        transform .25s ease,
+        box-shadow .25s ease;
+}
+
+body:not(.dark) .resource-card:hover,
+body:not(.dark) .course-card:hover {
+
+    transform: translateY(-4px);
+
+    box-shadow: 0 12px 28px rgba(0,0,0,.12);
+
+}
+
+/* ==========================================================
+   RESOURCE CARD COLORS
+   ========================================================== */
+
+.resource-card-1 {
+
+    border-top: 6px solid #b35c73;
+
+}
+
+.resource-card-2 {
+
+    border-top: 6px solid #b8892f;
+
+}
+
+.resource-card-3 {
+
+    border-top: 6px solid #4f6f91;
+
+}
+
+.resource-card-4 {
+
+    border-top: 6px solid #5e8767;
+
+}
+
+/* Teaching cards */
+
+.course-card-rose {
+
+    border-top-color:#b35c73;
+
+}
+
+.course-card-gold {
+
+    border-top-color:#b8892f;
+
+}
+
+.course-card-blue {
+
+    border-top-color:#4f6f91;
+
+}
+
+.course-card-green {
+
+    border-top-color:#5e8767;
+
+}
+
+/* ==========================================================
+   BUTTONS
+   ========================================================== */
+
+body:not(.dark) .resource-link-button,
+body:not(.dark) .syllabus-button {
+
+    background:#223a5e;
+
+    color:white !important;
+
+    border-radius:6px;
+
+    font-weight:600;
+
+}
+
+body:not(.dark) .resource-link-button:hover,
+body:not(.dark) .syllabus-button:hover {
+
+    background:#b35c73;
+
+}
+
+/* ==========================================================
+   NAVBAR
+   ========================================================== */
+
+body:not(.dark) .navbar {
+
+    background:#faf8f6 !important;
+
+    border-bottom:1px solid #e6e1db;
+
+}
+
+body:not(.dark) .navbar-nav .nav-link {
+
+    color:#223a5e !important;
+
+    font-weight:600;
+
+}
+
+body:not(.dark) .navbar-nav .nav-link:hover {
+
+    color:#b35c73 !important;
+
+}
+
+/* ==========================================================
+   HOME SECTIONS
+   ========================================================== */
+
+body:not(.dark) section {
+
+    background:#f7f5f3;
+
+}
+
+/* ==========================================================
+   BLOCKQUOTES
+   ========================================================== */
+
+body:not(.dark) blockquote {
+
+    background:#fdfbf9;
+
+    border-left:5px solid #b35c73;
+
+}
+
+/* ==========================================================
+   TABLES
+   ========================================================== */
+
+body:not(.dark) table {
+
+    background:white;
+
+}
+
+body:not(.dark) th {
+
+    background:#223a5e;
+
+    color:white;
+
+}
