@@ -73,6 +73,8 @@ At Leiden, I have also taught courses and seminars on qualitative research metho
 
 I received Leiden University Institute of Political Science Teaching Excellence Certificates in 2025 and 2026.
 
+The Introduction to Comparative Politics Teaching team (10 instructors plus two lecturers and co-leads) has been nominated for the Faculty of Social and Behavioural Sciences Casimir Prize. This is a prize meant to show appreciation of teaching teams that achieve renewal and innovation in education. We will hear about the results in September 2026! 
+
 ---
 <hr>
 
