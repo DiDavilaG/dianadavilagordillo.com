@@ -1156,3 +1156,27 @@ body.dark .navbar-collapse,
 .dark .navbar-collapse {
   background-color: #223a5e !important;
 }
+
+.resource-card-5::before {
+  background: #557a78;
+}
+
+.resource-card-5 a {
+  color: #557a78;
+}
+
+.resource-access-button {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.7rem 1rem;
+  border: 2px solid currentColor;
+  border-radius: 999px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.resource-access-button:hover {
+  background: #557a78;
+  color: #fff;
+  text-decoration: none;
+}
