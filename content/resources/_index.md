@@ -39,7 +39,7 @@ type: page
 <p>The catalogue is publicly available, while access to the documents themselves is granted upon request for academic and educational purposes.</p>
 
 <div class="resource-card-actions">
-<a class="resource-access-button" href="/resources/ecuador-archive/">View available documents</a>
+<a class="resource-access-button" href="/ecuador-archive/">View available documents</a>
 <a class="resource-request-link" href="mailto:d.l.davila.gordillo@fsw.leidenuniv.nl?subject=Request%20for%20access%20to%20the%20Research%20Archive%20on%20Indigenous%20Politics%20in%20Ecuador">Request access</a>
 </div>
 </div>
