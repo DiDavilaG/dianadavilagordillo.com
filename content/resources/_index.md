@@ -32,8 +32,14 @@ type: page
 </div>
 </div>
 <div class="resource-card resource-card-5">
-<h3>Indigenous Politics in Ecuador Research Archive</h3>
-<p>This restricted archive contains documents and research materials for students and scholars studying Indigenous politics, organizations, parties, representation, and intercultural institutions in Ecuador.</p>
-<p>Access is available for academic and educational purposes upon request.</p>
-<a class="resource-access-button" href="mailto:d.l.davila.gordillo@fsw.leidenuniv.nl subject=Request%20for%20access%20to%20the%20Ecuador%20research%20archive">Request access</a>
+<h3>Research Archive: Indigenous Politics in Ecuador</h3>
+
+<p>While working on Indigenous politics in Ecuador, I often struggled to locate important documents that were scattered across personal archives, institutional repositories, or no longer easily available online. This archive is my attempt to make these materials easier to discover for students and researchers working on related topics.</p>
+
+<p>The catalogue is publicly available, while access to the documents themselves is granted upon request for academic and educational purposes.</p>
+
+<div class="resource-card-actions">
+<a class="resource-access-button" href="/resources/ecuador-archive/">View available documents</a>
+<a class="resource-request-link" href="mailto:d.l.davila.gordillo@fsw.leidenuniv.nl?subject=Request%20for%20access%20to%20the%20Research%20Archive%20on%20Indigenous%20Politics%20in%20Ecuador">Request access</a>
+</div>
 </div>
