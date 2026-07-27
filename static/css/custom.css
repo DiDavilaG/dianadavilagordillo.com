@@ -1180,3 +1180,48 @@ body.dark .navbar-collapse,
   color: #fff;
   text-decoration: none;
 }
+/* Indigenous Politics in Ecuador archive card */
+
+.resource-card-5::before {
+  background: #557a78;
+}
+
+.resource-card-5 a {
+  color: #557a78;
+}
+
+.resource-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+.resource-access-button {
+  display: inline-block;
+  padding: 0.7rem 1rem;
+  border: 2px solid #557a78;
+  border-radius: 999px;
+  background: #557a78;
+  color: #ffffff !important;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.resource-access-button:hover {
+  background: transparent;
+  color: #557a78 !important;
+  text-decoration: none;
+}
+
+.resource-request-link {
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.resource-request-link:hover {
+  text-decoration-thickness: 2px;
+}
